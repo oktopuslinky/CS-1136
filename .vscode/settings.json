@@ -5,6 +5,7 @@
         "iomanip": "cpp",
         "ostream": "cpp",
         "iosfwd": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "cmath": "cpp"
     }
 }
