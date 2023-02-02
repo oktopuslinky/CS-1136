@@ -140,4 +140,3 @@ int main(){
     double totalCharges = CalcTotal(spoolCharges, shipping);
     OutputOrder(shipping, spoolCharges, totalCharges, ready, backOrder);
 }
-
